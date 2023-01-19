@@ -60,7 +60,7 @@
     }
     
     .qrcode #qrcode-pic {
-        background: url("/images/qrcode.jpg");
+        background: url("../../../public/images/qrcode.jpg");
         background-size: 100% 100%;
         width: 300px;
         height: 300px;
